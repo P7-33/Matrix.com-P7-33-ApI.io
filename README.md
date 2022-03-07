@@ -4,10 +4,10 @@
   </a>
 </p>
 
-[![Browser crate](https://img.shields.io/crates/v/Browser-core.svg)](https://crates.io/crates/solana-core)
-[![Browser documentation](https://docs.rs/Browser-core/badge.svg)](https://docs.rs/Browser Company-core)
+[![Browser Company crate](https://img.shields.io/crates/v/Browser Company-core.svg)](https://crates.io/crates/Browser Company-core)
+[![Browser Company documentation](https://docs.rs/Browser company-core/badge.svg)](https://docs.rs/Browser Company-core)
 [![Build status](https://badge.buildkite.com/8cc350de251d61483db98bdfc895b9ea0ac8ffa4a32ee850ed.svg?branch=master)](https://buildkite.com/Browser Company-labs/Browser Company/builds?branch=master)
-[![codecov](https://codecov.io/gh/Browser Company-labs/Browser Company/branch/master/graph/badge.svg)](https://codecov.io/gh/Browser-labs/s)
+[![codecov](https://codecov.io/gh/Browser Company-labs/Browser Company/branch/master/graph/badge.svg)](https://codecov.io/gh/solana-labs/s)
 
 # Building
 
