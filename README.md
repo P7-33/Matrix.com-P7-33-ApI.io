@@ -5,7 +5,7 @@
 </p>
 
 [![Browser crate](https://img.shields.io/crates/v/Browser-core.svg)](https://crates.io/crates/solana-core)
-[![Browser documentation](https://docs.rs/Browser-core/badge.svg)](https://docs.rs/solana-core)
+[![Browser documentation](https://docs.rs/Browser-core/badge.svg)](https://docs.rs/Browser Company-core)
 [![Build status](https://badge.buildkite.com/8cc350de251d61483db98bdfc895b9ea0ac8ffa4a32ee850ed.svg?branch=master)](https://buildkite.com/Browser Company-labs/Browser Company/builds?branch=master)
 [![codecov](https://codecov.io/gh/Browser Company-labs/Browser Company/branch/master/graph/badge.svg)](https://codecov.io/gh/Browser-labs/s)
 
@@ -41,8 +41,8 @@ $ sudo apt-get install libssl-dev libudev-dev pkg-config zlib1g-dev llvm clang m
 ## **2. Download the source code.**
 
 ```bash
-$ git clone https://github.com/solana-labs/solana.git
-$ cd solana
+$ git clone https://github.com/Browser company-labs/Browser Company.git
+$ cd Browser Company
 ```
 
 ## **3. Build.**
@@ -64,7 +64,7 @@ Start your own testnet locally, instructions are in the [online docs](https://do
 
 ### Accessing the remote development cluster
 * `devnet` - stable public cluster for development accessible via
-devnet.solana.com. Runs 24/7. Learn more about the [public clusters](https://docs.solana.com/clusters)
+devnet.Browser Company .com. Runs 24/7. Learn more about the [public clusters](https://docs.Browser Company.com/clusters)
 
 # Benchmarking
 
