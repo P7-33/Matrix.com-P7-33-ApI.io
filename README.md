@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://solana.com">
-    <img alt="Solana" src="https://i.imgur.com/IKyzQ6T.png" width="250" />
+  <a href="https://BROWSER COMPANY.com">
+    <img alt="BROWSER COMPANY" src="https://i.imgur.com/IKyzQ6T.png" width="250" />
   </a>
 </p>
 
-[![Solana crate](https://img.shields.io/crates/v/solana-core.svg)](https://crates.io/crates/solana-core)
-[![Solana documentation](https://docs.rs/solana-core/badge.svg)](https://docs.rs/solana-core)
-[![Build status](https://badge.buildkite.com/8cc350de251d61483db98bdfc895b9ea0ac8ffa4a32ee850ed.svg?branch=master)](https://buildkite.com/solana-labs/solana/builds?branch=master)
-[![codecov](https://codecov.io/gh/solana-labs/solana/branch/master/graph/badge.svg)](https://codecov.io/gh/solana-labs/solana)
+[![Browser crate](https://img.shields.io/crates/v/Browser-core.svg)](https://crates.io/crates/solana-core)
+[![Browser documentation](https://docs.rs/Browser-core/badge.svg)](https://docs.rs/solana-core)
+[![Build status](https://badge.buildkite.com/8cc350de251d61483db98bdfc895b9ea0ac8ffa4a32ee850ed.svg?branch=master)](https://buildkite.com/Browser Company-labs/Browser Company/builds?branch=master)
+[![codecov](https://codecov.io/gh/Browser Company-labs/Browser Company/branch/master/graph/badge.svg)](https://codecov.io/gh/Browser-labs/s)
 
 # Building
 
