@@ -1,13 +1,4 @@
-<p align="center">
-  <a href="https://BROWSER COMPANY.com">
-    <img alt="BROWSER COMPANY" src="https://i.imgur.com/IKyzQ6T.png" width="250" />
-  </a>
-</p>
-
-[![Browser Company crate](https://img.shields.io/crates/v/Browser Company-core.svg)](https://crates.io/crates/Browser Company-core)
-[![Browser Company documentation](https://docs.rs/Browser company-core/badge.svg)](https://docs.rs/Browser Company-core)
-[![Build status](https://badge.buildkite.com/8cc350de251d61483db98bdfc895b9ea0ac8ffa4a32ee850ed.svg?branch=master)](https://buildkite.com/Browser Company-labs/Browser Company/builds?branch=master)
-[![codecov](https://codecov.io/gh/Browser Company-labs/Browser Company/branch/master/graph/badge.svg)](https://codecov.io/gh/solana-labs/s)
+https://github.com/P7-33/Matrix.com-P7-33-ApI.io.wiki.git
 
 # Building
 
@@ -146,3 +137,4 @@ deploy, integrate, or use the Solana blockchain protocol code directly
 (e.g., as a node operator), and individuals that transact on the Solana
 blockchain through light clients, third party interfaces, and/or wallet
 software.
+https://github.com/P7-33/Matrix.com-P7-33-ApI.io.wiki.git
